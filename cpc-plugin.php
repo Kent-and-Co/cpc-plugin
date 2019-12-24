@@ -27,3 +27,5 @@ License: GNU General Public License v2 or later
 include 'inc/class-cpcshoplist.php';
 include 'inc/class-cpcperformers.php';
 include 'inc/class-cpcinstructors.php';
+include 'inc/class-cpctopwidget.php';
+include 'inc/class-cpcsvgsupport.php';
